@@ -20,7 +20,7 @@ let length = height.length;
 console.log(text);
 console.log(age);
 console.log(woman);
-console.log(null);
+console.log(n);
 console.log(postId);
 console.log(height);
 console.log(length);
