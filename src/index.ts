@@ -15,7 +15,7 @@ let postId : undefined = undefined;
 
 let height : number[] = [180,178,188,196,185];
 
-let length = height.length;
+let leng = height.length;
 
 console.log(text);
 console.log(age);
@@ -23,11 +23,11 @@ console.log(woman);
 console.log(n);
 console.log(postId);
 console.log(height);
-console.log(length);
+console.log(leng);
 
-let age : number = 55;
+age = 55;
 
-let woman : boolean = true;
+woman = true;
 
 console.log(age);
 console.log(woman);
